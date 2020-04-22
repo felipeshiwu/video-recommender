@@ -27,7 +27,10 @@ The development of the project used the following main tools:
 - The project is currently hosted on cloud: Heroku
 
 ## Data Scraping
-As its name says, data science. So the first step is to collect the necessary and useful data for our proposal. What we do here is Web Scraping, a common strategy which gets the entire HTML page one by one and create a csv file with the useful features got by the Youtube HTML tags. This because we don't have a database ready to work, so web scraping was the solution found. 
+As its name says, data science. So the first step is to collect the necessary and useful data for our proposal. What we do here is Web Scraping, a common strategy which gets the entire HTML page one by one and create a csv file with the useful features got by the Youtube HTML tags. This because we don't have a database ready to work, so web scraping was the solution found. For this project, the web scraping will be on youtube search page with keywords:
+- Machine Learning
+- Data Science
+- Kaggle
 
 ## Data Cleaning
 The point here is, when we get the entire HTML page, we also get a lot os useless information. To clean this data, what we use is BS4 to parse the HTML and search which tag/class have useful values for the main problem. In the end, what we choose to keep from all this information got are:
