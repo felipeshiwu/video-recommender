@@ -1,6 +1,6 @@
 # Video recommender
 
-## Preview:
+## What is it:
 This project was built from the project oriented by the Data Science course [Como criar uma solução completa de Data Science | Mario Filho](http://mariofilho.com/curso/).
 
 The objective of this project is to build a Youtube video recommender, following a certain criterion which will be used to list a series of videos that, according to a machine learning score, we consider recommended.
