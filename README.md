@@ -49,6 +49,7 @@ Getting here, what we have is a clean dataset and structured data with the relev
 To be more specific, 1600 videos were collected and I chose 500 videos to label. The criteria I used to classify as interesting video were:
 - Videos lasting less than an hour 
 - Titlies in English, Portuguese and Chinese
+  - Every portuguese and chinese video are mark as **interested**
 - Titles with **python** or **statistics** or **kaggle challenges**
 - Titles with big technology company names
 - Titles with fun facts
