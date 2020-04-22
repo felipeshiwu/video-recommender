@@ -1,6 +1,6 @@
 # Video recommender
 
-## What is it:
+## What is it
 This project was built from the project oriented by the Data Science course [Como criar uma solução completa de Data Science | Mario Filho](http://mariofilho.com/curso/).
 
 The objective of this project is to build a Youtube video recommender, following a certain criterion which will be used to list a series of videos that, according to a machine learning score, we consider recommended.
@@ -65,5 +65,5 @@ We already realized that this problem is about classification, so the options we
 
 Of course in this project we did a little web app to display a list of videos with the best scores. The logic is simple, we do web scraping periodically and then we apply the trained models to get the scores. The displayed list is the list sort by score.
 
-## About me:
+## About me
 Autor - Felipe Shi Iu Wu | Contatos: [felipeshiwu@gmail.com] & [LinkedIn](https://www.linkedin.com/in/felipeshiwu/)
