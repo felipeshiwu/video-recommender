@@ -1,8 +1,7 @@
 # Video recommender
 
-<p align="center" style="margin-bottom: -10px">
-    <img src="certificado.png" alt="certificado">
-    <p align="center" style="font-size: 12px">certificado</p>
+<p align="center" style="margin-bottom: -10px; height: 50px">
+    <img src="certificado.jpg" alt="certificado">
 </p>
 
 ## What is it
