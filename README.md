@@ -1,4 +1,4 @@
-# Video recommender
+# Video recommender - [Click to access](https://youtube-vrecom-by-felipeshwu.herokuapp.com/)
 
 <p align="center" style="margin-bottom: -10px; height: 50px">
     <img src="certificado.jpg" alt="certificado">
