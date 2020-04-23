@@ -1,5 +1,10 @@
 # Video recommender
 
+<p align="center" style="margin-bottom: -10px">
+    <img src="certificado.png" alt="certificado">
+    <p align="center" style="font-size: 12px">certificado</p>
+</p>
+
 ## What is it
 This project was built from the one guided by the Data Science course [Como criar uma solução completa de Data Science | Mario Filho](http://mariofilho.com/curso/).
 
