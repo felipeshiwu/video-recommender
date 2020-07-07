@@ -73,5 +73,7 @@ We already realized that this problem is about classification, so the options ar
 
 Of course in this project we did a little web app to display a list of videos with the best scores. The logic is simple, we do web scraping periodically and then we apply the trained models to get the scores. The displayed list is the list sort by score.
 
+### [Click here to go to the web app github repo](https://github.com/felipeshiwu/yt-recommender-app)
+
 ## About me
 Autor - Felipe Shi Iu Wu | Contact: [felipeshiwu@gmail.com](mailto:felipeshiwu@gmail.com) & [LinkedIn](https://www.linkedin.com/in/felipeshiwu/)
